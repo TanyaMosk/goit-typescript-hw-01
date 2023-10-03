@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "test.js",
+  "homepage": "https://TanyaMosk.github.io/goit-typescript-hw-01/",
  "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
   },
